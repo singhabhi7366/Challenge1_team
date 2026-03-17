@@ -1,1 +1,1 @@
-Day 1: Learned Git basics
+Day 1: Learned Git basics some commands are useful but some commands are less in use
